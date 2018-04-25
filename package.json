@@ -1,0 +1,11 @@
+{
+  "name": "cheese-list",
+  "version": "1.0.0",
+  "description": "Spiking sharing a JSON file with Java and JavaScript",
+  "main": "src/main/resources/cheeses.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
