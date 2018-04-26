@@ -12,3 +12,6 @@ SELECT ?itemLabel WHERE {
 ```
 
 Built as a JAR for JVM languages, and as a Node module for JS.
+
+Maven build requires cheese-maven-plugin from https://github.com/davidedmonds/cheese-maven-plugin to be installed locally.
+This is in order to generate a class with static members for each Cheese.
